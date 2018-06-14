@@ -1,3 +1,3 @@
-# Second File of Markdown-Challenge
+# Markdown-Challenge (Second File)
 
 [Main ReadMe](README.md)
