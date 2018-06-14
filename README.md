@@ -30,6 +30,6 @@ A Block quote:
 > Digital Media is an important part of the modern world. Understanding how to use Markdown is also a very useful skill to have for professional looking repositories
 
 A Bulleted list:
-* My list
-⋅⋅⋅* Item1
-⋅⋅⋅* Item2
+* Item1
+* Item2
+* Item3
