@@ -50,4 +50,6 @@ A Table:
 
 **Some** **Bold** **Text**
 
+*Some* *Italics*
+
 
