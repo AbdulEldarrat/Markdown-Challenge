@@ -52,4 +52,6 @@ A Table:
 
 *Some* *Italics*
 
+~~StrikeThrough~~
+
 
