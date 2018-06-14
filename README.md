@@ -14,3 +14,12 @@ Local Image:
 
 External Image:
 ![Digital Media img2](https://www.livemint.com/rf/Image-621x414/LiveMint/Period2/2018/02/01/Photos/Processed/ads-kviB--621x414@LiveMint.jpg "External Image")
+
+
+Some Code:
+
+```
+int x = 10;
+int y = 10;
+int z = x + y;
+```
