@@ -31,5 +31,5 @@ A Block quote:
 
 A Bulleted list:
 * My list
-⋅⋅* Item1
-⋅⋅* Item2
+⋅⋅⋅* Item1
+⋅⋅⋅* Item2
