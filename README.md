@@ -47,3 +47,7 @@ A Table:
 | Row 2         | Row 2         | Row 2     |
 | Row 3         | Row 3         | Row 3     |
 
+
+**Some Bold Text **
+
+
