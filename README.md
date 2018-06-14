@@ -2,8 +2,6 @@
 ***
 [LINK TO SECOND FILE](SecondFile.md)
 ***
-[LINK TO IMAGE CONTROL FILE]( /images/AboutImages.md)
-***
 ## This is an H2 Header
 #### This is an H4 Header
 
