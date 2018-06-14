@@ -33,3 +33,8 @@ A Bulleted list:
 * Item1
 * Item2
 * Item3
+
+A Numbered list:
+1. ItemOne
+2. ItemTwo
+3. ItemThree
