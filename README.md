@@ -38,3 +38,9 @@ A Numbered list:
 1. ItemOne
 2. ItemTwo
 3. ItemThree
+
+A Table:
+|Column1  |Column2  |Column3  |
+|---------|:-------:|--------:|
+|Row 1    |Row 1    |Row 1    |
+|Row 2    |Row 2    |Row 2    |
