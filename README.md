@@ -48,6 +48,6 @@ A Table:
 | Row 3         | Row 3         | Row 3     |
 
 
-**Some Bold Text **
+**Some** **Bold** **Text**
 
 
