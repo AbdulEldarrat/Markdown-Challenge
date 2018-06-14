@@ -40,7 +40,10 @@ A Numbered list:
 3. ItemThree
 
 A Table:
-|Column1  |Column2  |Column3  |
-|---------|:-------:|--------:|
-|Row 1    |Row 1    |Row 1    |
-|Row 2    |Row 2    |Row 2    |
+
+| Column 1      | Column 2      | Column 3  |
+| ------------- |:-------------:| ---------:|
+| Row 1         | Row 1         | Row 1     |
+| Row 2         | Row 2         | Row 2     |
+| Row 3         | Row 3         | Row 3     |
+
