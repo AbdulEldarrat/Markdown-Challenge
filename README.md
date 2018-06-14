@@ -13,4 +13,4 @@ Local Image:
 
 
 External Image:
-![Digital Media img2](http://www.jeadigitalmedia.org/wp-content/uploads/2018/02/header-digital-media.jpg "External Image")
+![Digital Media img2](https://www.livemint.com/rf/Image-621x414/LiveMint/Period2/2018/02/01/Photos/Processed/ads-kviB--621x414@LiveMint.jpg "External Image")
