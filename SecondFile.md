@@ -1,1 +1,1 @@
-[Main ReadMe](../Markdown-Challenge/README)
+[Main ReadMe](README.md)
