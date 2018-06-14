@@ -17,9 +17,9 @@ External Image:
 
 
 ***
-Some Code:
+Some Code with syntax highlighting:
 
-```
+```C
 int x = 10;
 int y = 10;
 int z = x + y;
