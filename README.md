@@ -6,5 +6,6 @@
 
 [This is a link to an External site](https://atlantisrisingmagazine.com/article/solar-catastrophe/ "Solar Catastrophes'")
 
-![Digital Media img][digialMedia]
-[digialMedia]: https://github.com/AbdulEldarrat/Markdown-Challenge/blob/master/Images/digital-media-blog_0.png "Digital Media"
+![Digital Media img][logo]
+
+[logo]: https://github.com/AbdulEldarrat/Markdown-Challenge/blob/master/Images/digital-media-blog_0.png "Digital Media"
