@@ -7,4 +7,4 @@
 [This is a link to an External site](https://atlantisrisingmagazine.com/article/solar-catastrophe/ "Solar Catastrophes'")
 
 ![Digital Media img](digialMedia)
-[digitalMedia] = https://github.com/AbdulEldarrat/Markdown-Challenge/blob/master/Images/digital-media-blog_0.png "Digital Media"
+[digialMedia]: https://github.com/AbdulEldarrat/Markdown-Challenge/blob/master/Images/digital-media-blog_0.png "Digital Media"
